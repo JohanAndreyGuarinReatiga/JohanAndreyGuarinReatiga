@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanandreyguarinreatiga" alt="johanandreyguarinreatiga" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-- 🌱 I’m currently learning **html and css**
+- 🌱 I’m currently learning html and css
 
 - 📫 How to reach me **johanandrey27@gmail.com**
   
